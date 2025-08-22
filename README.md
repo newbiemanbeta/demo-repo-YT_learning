@@ -41,4 +41,7 @@ git diff branch-nameto compare
 to merge branches we use
 git merge
 
-before merging, the most common thing to do is to puch it in github, then create a pull request, this is the std since most of the time the file is not yours and multiple people work on it
+before merging, the most common thing to do is to puch it in github, then create a pull request (PR), this is the std since most of the time the file is not yours and multiple people work on it
+
+once we made PR, people can review it and make comments. they you can make changes and edits based on the comments, commit and once everything is good, the PR can be approved, the branches will be merged and the branch will be gone, then you can create a new branch for edits and start it over again.
+
