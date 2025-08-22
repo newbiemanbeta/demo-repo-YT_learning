@@ -25,3 +25,12 @@ git push origin master
 
 alright, so we always nee to add, commit and push
 git add stages the changes that has been made, commit makes the changes in the local machine and push applies the changes in github
+
+
+now on to branches:
+to see what are the branches, you use:
+git branch
+to create a new branch:
+git checkout -b name_branch
+to switch between branches we also use
+git checkout
