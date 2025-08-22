@@ -36,7 +36,7 @@ to switch between branches we also use
 git checkout
 
 to compare different branches we use:
-git diff 
+git diff branch-nameto compare
 
 to merge branches we use
 git merge
