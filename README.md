@@ -40,3 +40,5 @@ git diff branch-nameto compare
 
 to merge branches we use
 git merge
+
+before merging, the most common thing to do is to puch it in github, then create a pull request, this is the std since most of the time the file is not yours and multiple people work on it
