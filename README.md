@@ -22,3 +22,6 @@ to get it live to github, you nedd to use another command, git push
 in this process we need ssh key, this proves to github that you are the owner of the account, to do this you will need to create an ssh key in you machine and add that to github.
 
 git push origin master
+
+alright, so we always nee to add, commit and push
+git add stages the changes that has been made, commit makes the changes in the local machine and push applies the changes in github
