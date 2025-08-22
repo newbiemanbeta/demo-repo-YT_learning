@@ -34,3 +34,9 @@ to create a new branch:
 git checkout -b name_branch
 to switch between branches we also use
 git checkout
+
+to compare different branches we use:
+git diff 
+
+to merge branches we use
+git merge
